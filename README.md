@@ -1,8 +1,7 @@
 ### Hi there 👋, I am Ashray Kothari.
 
 <!--
-**dhruv1294/dhruv1294** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-- An App Developer
+**Ashray11/Ashray11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 - 🔭 I’m currently working on ...
